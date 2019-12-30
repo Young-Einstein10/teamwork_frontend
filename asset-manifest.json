@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.js": "/teamwork_frontend/static/js/main.dd9719d8.chunk.js",
-    "main.js.map": "/teamwork_frontend/static/js/main.dd9719d8.chunk.js.map",
-    "runtime-main.js": "/teamwork_frontend/static/js/runtime-main.70164ea3.js",
-    "runtime-main.js.map": "/teamwork_frontend/static/js/runtime-main.70164ea3.js.map",
-    "static/css/2.0624914a.chunk.css": "/teamwork_frontend/static/css/2.0624914a.chunk.css",
-    "static/js/2.1d6e1502.chunk.js": "/teamwork_frontend/static/js/2.1d6e1502.chunk.js",
-    "static/js/2.1d6e1502.chunk.js.map": "/teamwork_frontend/static/js/2.1d6e1502.chunk.js.map",
+    "main.css": "/teamwork_frontend/static/css/main.d1b05096.chunk.css",
+    "main.js": "/teamwork_frontend/static/js/main.fd6cca0b.chunk.js",
+    "main.js.map": "/teamwork_frontend/static/js/main.fd6cca0b.chunk.js.map",
+    "runtime-main.js": "/teamwork_frontend/static/js/runtime-main.e4be0d88.js",
+    "runtime-main.js.map": "/teamwork_frontend/static/js/runtime-main.e4be0d88.js.map",
+    "static/js/2.ebfd627a.chunk.js": "/teamwork_frontend/static/js/2.ebfd627a.chunk.js",
+    "static/js/2.ebfd627a.chunk.js.map": "/teamwork_frontend/static/js/2.ebfd627a.chunk.js.map",
     "index.html": "/teamwork_frontend/index.html",
-    "precache-manifest.ef70307e23498a7aa3c21dd1d1df87a6.js": "/teamwork_frontend/precache-manifest.ef70307e23498a7aa3c21dd1d1df87a6.js",
+    "precache-manifest.49b1dd72a34e1442adff48e1b2455164.js": "/teamwork_frontend/precache-manifest.49b1dd72a34e1442adff48e1b2455164.js",
     "service-worker.js": "/teamwork_frontend/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/teamwork_frontend/static/css/2.0624914a.chunk.css.map",
-    "static/media/logo.svg": "/teamwork_frontend/static/media/logo.25bf045c.svg"
+    "static/css/main.d1b05096.chunk.css.map": "/teamwork_frontend/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ebfd627a.chunk.js.LICENSE": "/teamwork_frontend/static/js/2.ebfd627a.chunk.js.LICENSE",
+    "static/media/logo.svg": "/teamwork_frontend/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70164ea3.js",
-    "static/css/2.0624914a.chunk.css",
-    "static/js/2.1d6e1502.chunk.js",
-    "static/js/main.dd9719d8.chunk.js"
+    "static/js/runtime-main.e4be0d88.js",
+    "static/js/2.ebfd627a.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fd6cca0b.chunk.js"
   ]
 }
