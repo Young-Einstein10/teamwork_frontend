@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/teamwork_frontend/static/css/main.d1b05096.chunk.css",
-    "main.js": "/teamwork_frontend/static/js/main.fd6cca0b.chunk.js",
-    "main.js.map": "/teamwork_frontend/static/js/main.fd6cca0b.chunk.js.map",
+    "main.css": "/teamwork_frontend/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/teamwork_frontend/static/js/main.25a4f0c1.chunk.js",
+    "main.js.map": "/teamwork_frontend/static/js/main.25a4f0c1.chunk.js.map",
     "runtime-main.js": "/teamwork_frontend/static/js/runtime-main.e4be0d88.js",
     "runtime-main.js.map": "/teamwork_frontend/static/js/runtime-main.e4be0d88.js.map",
-    "static/js/2.ebfd627a.chunk.js": "/teamwork_frontend/static/js/2.ebfd627a.chunk.js",
-    "static/js/2.ebfd627a.chunk.js.map": "/teamwork_frontend/static/js/2.ebfd627a.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/teamwork_frontend/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b0e0f2a5.chunk.js": "/teamwork_frontend/static/js/2.b0e0f2a5.chunk.js",
+    "static/js/2.b0e0f2a5.chunk.js.map": "/teamwork_frontend/static/js/2.b0e0f2a5.chunk.js.map",
     "index.html": "/teamwork_frontend/index.html",
-    "precache-manifest.49b1dd72a34e1442adff48e1b2455164.js": "/teamwork_frontend/precache-manifest.49b1dd72a34e1442adff48e1b2455164.js",
+    "precache-manifest.d9fae1f297f5d1e70a7fd7d32a57fd4e.js": "/teamwork_frontend/precache-manifest.d9fae1f297f5d1e70a7fd7d32a57fd4e.js",
     "service-worker.js": "/teamwork_frontend/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/teamwork_frontend/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.ebfd627a.chunk.js.LICENSE": "/teamwork_frontend/static/js/2.ebfd627a.chunk.js.LICENSE",
+    "static/css/2.17e5ed98.chunk.css.map": "/teamwork_frontend/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/teamwork_frontend/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.b0e0f2a5.chunk.js.LICENSE": "/teamwork_frontend/static/js/2.b0e0f2a5.chunk.js.LICENSE",
     "static/media/logo.svg": "/teamwork_frontend/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e4be0d88.js",
-    "static/js/2.ebfd627a.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.fd6cca0b.chunk.js"
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b0e0f2a5.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.25a4f0c1.chunk.js"
   ]
 }
